@@ -13,7 +13,6 @@ const Button = props => {
         </button>
     );
 }
-
 export const OutlineButton = props => {
     return (
         <Button
